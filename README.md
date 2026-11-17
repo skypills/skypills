@@ -38,11 +38,6 @@
 ## GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skypills&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skypills&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=skypills&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
