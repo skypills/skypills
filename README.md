@@ -33,16 +33,6 @@
 | [Hyprland-Dots](https://github.com/skypills/Hyprland-Dots) | My Hyprland dotfiles and desktop setup | Config / Python |
 | [skypills.github.io](https://github.com/skypills/skypills.github.io) | Personal site | HTML / CSS |
 
----
-
-## GitHub stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=skypills&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## Currently learning
 
 - JavaScript fundamentals: types, scope, closures, `this`, prototypes, async
